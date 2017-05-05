@@ -1,3 +1,13 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+header #logo {
+
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 30%;
+  max-width: 200px;
+}
